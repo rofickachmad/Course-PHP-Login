@@ -28,7 +28,7 @@
   		<div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid>
 			<form class="uk-form-stacked js-login">
 				
-				<h2>Login</h2>
+				<h2>Login Sekarang</h2>
 
 			    <div class="uk-margin">
 			        <label class="uk-form-label" for="form-stacked-text">Email</label>
