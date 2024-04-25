@@ -19,3 +19,5 @@ This is a fast paced course. You should already be somewhat familiar with JavaSc
 - [JavaScript Essentials on Skillshare](http://skl.sh/2wml2Ae)
 
 And you can learn PHP, MySQL, jQuery and Ajax from my [Complete Web Development Course on YouTube](https://www.youtube.com/playlist?list=PLNCzLFEENi67cM1-yVS4q8vu41O7Ab74j)
+
+Learning git by doing
